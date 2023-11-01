@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kimyaf
-- 👀 I’m interested in mastering different languages...
-- 🌱 I’m currently learning Eleventy, TypeScript and Next, plus exploring Python ...
+- 👀 I’m interested in mastering different languages
+- 🌱 I’m currently learning Eleventy, TypeScript and Next, plus exploring Python 
 - 💞️ I’m looking to collaborate on an ingredient scanning app 
-- 📫 Email: <a> kimyaf14@gmail.com </a>
+- 📫 Email: <a> kfalla1@wgu.edu </a>
 - :globe_with_meridians: Network <a> https://www.linkedin.com/in/kimyacodes/ </a>
 
 <!---
